@@ -1,3 +1,5 @@
+# Discord Landing Page Clone 🎨
+
 A responsive and visually accurate clone of Discord’s homepage.
 From typography to layout, every detail was carefully implemented to match the original design — ensuring an authentic and professional UI experience.
 
