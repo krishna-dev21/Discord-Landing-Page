@@ -31,6 +31,8 @@ Font Awesome – Iconography
 
 Custom Fonts (Whitney & Ginto) – Authentic typography
 
+
+
 🔑 Key Learnings
 
 🚀 Mastered utility-first design with Tailwind CSS
